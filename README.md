@@ -15,7 +15,3 @@ A collection of public APIs
 ## apis
 
 - [apis.io](http://apis.io/)
-
-## dev-tools
-
-- Fiddler + dex2jar + jd-gui
